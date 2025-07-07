@@ -25,6 +25,11 @@ This project involves creating interactive dashboards to analyze sales data over
 - In YOY chart 2020 (peak year) has sale of 295K.
 - The pie chart divides the sales based on the location type:
 
+###SNAPSHOTS
+
+![Blinkit_A](https://github.com/user-attachments/assets/b412aca1-8408-4cd1-8a45-fdf89651b254)
+
+
 
 1. Tier 1: 28.05%
 2. Tier 2: 39.77%
