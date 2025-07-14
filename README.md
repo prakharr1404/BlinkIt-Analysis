@@ -32,6 +32,7 @@ This project involves creating interactive dashboards to analyze sales data over
 
 ### 5. Snapshots
 
-![Blinkit_A](https://github.com/user-attachments/assets/b412aca1-8408-4cd1-8a45-fdf89651b254)
+![BlinkIt_Analysis_A](https://github.com/user-attachments/assets/ced65d18-33ca-4b0c-8f0b-47a14cab0867)
+
 
 
